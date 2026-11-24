@@ -1,10 +1,10 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Taha%20El%20Ghadi&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Pre-med%20%C2%B7%20Biological%20Sciences%20%40%20Guelph%20%C2%B7%20Builder&descAlignY=58&descSize=16" alt="Taha El Ghadi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Taha%20El%20Ghadi&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Student%20%40%20University%20of%20Guelph%20%C2%B7%20Builder&descAlignY=58&descSize=16" alt="Taha El Ghadi" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=Building+health-tech+with+ESP32s+and+radar;Pre-med+who+codes+his+own+study+tools;Hackathons%2C+bioinformatics%2C+and+student+tools" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=Building+things+with+ESP32s+and+radar;Hackathons%2C+hardware%2C+and+Python;Making+tools+I+actually+use" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -18,14 +18,12 @@
 
 ### 👋 About me
 
-I'm a **Biological Sciences (Honours)** student at the **University of Guelph** on a pre-med track, based in Waterloo, ON. I build things where **medicine meets hardware and code**: contactless sensors, wearables, and tools that make student life less painful.
+I'm a student at the **University of Guelph** who likes building things that mix **hardware and code**: sensors, wearables, and small tools that fix everyday problems.
 
-- 🔭 **Working on:** an ESP32 wearable tremor sensor and an RNA-seq reanalysis project
-- 🌱 **Learning:** bioinformatics, RNA-seq analysis, full-stack development
-- 👯 **Open to:** health-tech and bioinformatics collabs, hackathon teams
-- 🤝 **Looking for:** computational biology research and clinical exposure
-- 💬 **Ask me about:** hackathons, pre-med + coding, building tools for students
-- 🌍 Speaks English, Arabic, and French
+- 🔭 **Working on:** an ESP32 motion-sensing wearable
+- 🌱 **Learning:** full-stack development and data analysis
+- 👯 **Open to:** hackathon teams and hardware/software collabs
+- 💬 **Ask me about:** hackathons, ESP32 projects, building your own tools
 
 ---
 
@@ -43,7 +41,7 @@ I'm a **Biological Sciences (Honours)** student at the **University of Guelph** 
     </td>
     <td width="50%" valign="top">
       <h4>🏆 Aegis: OpenClaw Hack Toronto</h4>
-      WhatsApp-based medication support agent built with my team. Won the <b>Market Master Award</b> at Toronto Tech Week (May 2026).
+      WhatsApp-based AI assistant built with my team. Won the <b>Market Master Award</b> at Toronto Tech Week (May 2026).
       <br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
