@@ -1,10 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Taha%20El%20Ghadi&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Student%20%40%20University%20of%20Guelph%20%C2%B7%20&descAlignY=58&descSize=16" alt="Taha El Ghadi" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=Building+things+with+ESP32s+and+radar;Hackathons%2C+hardware%2C+and+Python;Making+tools+I+actually+use" alt="Typing intro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Taha%20El%20Ghadi&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Student%20%40%20University%20of%20Guelph&descAlignY=58&descSize=16" alt="Taha El Ghadi" />
 </p>
 
 <p align="center">
